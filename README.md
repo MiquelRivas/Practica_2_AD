@@ -1,1 +1,3 @@
-# Practica_2_AD
+Practica 2 de Analisis de Datos donde se responde a la pregunta general propuesta por el grupo de investigación de Daniel Covacho y la pregunta número .
+Grupo: Escuderia Ferrari
+Participantes: Carlos Bayés Liébana, Álvaro Velasco Sobrino, Miquel Rivas Vanrell.
