@@ -5,5 +5,16 @@ editor: visual
 ---
 
 ```{r}
+<<<<<<< HEAD
 echo: false
 ```
+=======
+library(tidyverse)
+```
+
+```{r}
+datos = read_csv2("Salut_Vocal_anonimizada.csv")
+datos <- datos %>% select(2:37)
+```
+
+>>>>>>> 3f4ceba622fcc608c537b8f80cb6fbcfd89ab77b
